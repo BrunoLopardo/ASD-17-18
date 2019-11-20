@@ -6,4 +6,4 @@ Il testo del progetto è riportato nella Wiki della repository ([Wiki](https://g
 ## Realizzato da:
 
   - Bruno Lopardo
-  - Alessandro Nasso
+  - [Alessandro Nasso](https://github.com/alessandronasso)
